@@ -1,4 +1,4 @@
-package reqres.in;
+package pojoClasses;
 
 public class LoginData {
     private String username;

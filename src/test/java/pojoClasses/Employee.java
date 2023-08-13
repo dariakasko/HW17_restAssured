@@ -1,4 +1,4 @@
-package reqres.in;
+package pojoClasses;
 
 public class Employee {
     private String name;

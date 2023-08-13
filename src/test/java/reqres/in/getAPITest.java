@@ -1,10 +1,9 @@
 package reqres.in;
 
-import io.restassured.http.ContentType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import pojoClasses.Resources;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

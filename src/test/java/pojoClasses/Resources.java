@@ -1,4 +1,4 @@
-package reqres.in;
+package pojoClasses;
 
 public class Resources {
     private int id;

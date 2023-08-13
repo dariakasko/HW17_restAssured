@@ -2,6 +2,7 @@ package reqres.in;
 
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
+import pojoClasses.Employee;
 
 import java.time.LocalDateTime;
 
